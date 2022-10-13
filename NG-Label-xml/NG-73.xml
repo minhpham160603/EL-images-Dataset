@@ -1,0 +1,26 @@
+<annotation>
+  <filename>NG-73.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>5143</xmax>
+      <xmin>5021</xmin>
+      <ymax>694</ymax>
+      <ymin>546</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-73.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3350</height>
+    <width>5905</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

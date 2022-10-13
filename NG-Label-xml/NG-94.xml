@@ -1,0 +1,86 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-94.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5770</width>
+		<height>3078</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>627</xmin>
+			<ymin>1011</ymin>
+			<xmax>2015</xmax>
+			<ymax>1484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5167</xmin>
+			<ymin>1105</ymin>
+			<xmax>5590</xmax>
+			<ymax>1550</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3340</xmin>
+			<ymin>1067</ymin>
+			<xmax>3790</xmax>
+			<ymax>1533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2462</xmin>
+			<ymin>572</ymin>
+			<xmax>2884</xmax>
+			<ymax>1044</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1962</xmin>
+			<ymin>2378</ymin>
+			<xmax>2412</xmax>
+			<ymax>2844</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1556</xmin>
+			<ymin>122</ymin>
+			<xmax>1995</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

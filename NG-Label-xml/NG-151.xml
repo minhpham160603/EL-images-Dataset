@@ -1,0 +1,62 @@
+<annotation>
+  <filename>NG-151.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>4296</xmax>
+      <xmin>3838</xmin>
+      <ymax>1131</ymax>
+      <ymin>680</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4742</xmax>
+      <xmin>4658</xmin>
+      <ymax>1531</ymax>
+      <ymin>1352</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Breakage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>683</xmax>
+      <xmin>259</xmin>
+      <ymax>2896</ymax>
+      <ymin>2473</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1938</xmax>
+      <xmin>1769</xmin>
+      <ymax>2845</ymax>
+      <ymin>2479</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-151.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3020</height>
+    <width>4820</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

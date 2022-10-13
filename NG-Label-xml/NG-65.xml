@@ -1,0 +1,38 @@
+<annotation>
+  <filename>NG-65.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>1221</xmax>
+      <xmin>1133</xmin>
+      <ymax>1478</ymax>
+      <ymin>1387</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2235</xmax>
+      <xmin>2094</xmin>
+      <ymax>2966</ymax>
+      <ymin>2599</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-65.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3350</height>
+    <width>5905</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

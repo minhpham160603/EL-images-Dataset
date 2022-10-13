@@ -1,0 +1,50 @@
+<annotation>
+  <filename>NG-190.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>566</xmax>
+      <xmin>213</xmin>
+      <ymax>569</ymax>
+      <ymin>188</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4589</xmax>
+      <xmin>4256</xmin>
+      <ymax>2016</ymax>
+      <ymin>1659</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4632</xmax>
+      <xmin>4280</xmin>
+      <ymax>540</ymax>
+      <ymin>188</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-190.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2686</height>
+    <width>4780</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

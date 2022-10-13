@@ -1,0 +1,74 @@
+<annotation>
+  <filename>NG-31.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>5083</xmax>
+      <xmin>4648</xmin>
+      <ymax>2891</ymax>
+      <ymin>2456</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2394</xmax>
+      <xmin>1959</xmin>
+      <ymax>2827</ymax>
+      <ymin>2392</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3621</xmax>
+      <xmin>3386</xmin>
+      <ymax>2310</ymax>
+      <ymin>2197</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>316</xmax>
+      <xmin>243</xmin>
+      <ymax>1359</ymax>
+      <ymin>1240</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>587</xmax>
+      <xmin>514</xmin>
+      <ymax>1327</ymax>
+      <ymin>1208</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-31.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3078</height>
+    <width>5770</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

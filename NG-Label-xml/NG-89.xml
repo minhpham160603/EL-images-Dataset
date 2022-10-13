@@ -1,0 +1,50 @@
+<annotation>
+  <filename>NG-89.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>1151</xmax>
+      <xmin>1056</xmin>
+      <ymax>2408</ymax>
+      <ymin>1995</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3716</xmax>
+      <xmin>3283</xmin>
+      <ymax>2446</ymax>
+      <ymin>2241</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2078</xmax>
+      <xmin>1948</xmin>
+      <ymax>2841</ymax>
+      <ymin>2484</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-89.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

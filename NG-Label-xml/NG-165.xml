@@ -1,0 +1,122 @@
+<annotation>
+  <filename>NG-165.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>1094</xmax>
+      <xmin>644</xmin>
+      <ymax>563</ymax>
+      <ymin>101</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2444</xmax>
+      <xmin>1981</xmin>
+      <ymax>588</ymax>
+      <ymin>132</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4263</xmax>
+      <xmin>3813</xmin>
+      <ymax>620</ymax>
+      <ymin>145</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5613</xmax>
+      <xmin>5144</xmin>
+      <ymax>1107</ymax>
+      <ymin>613</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1081</xmax>
+      <xmin>200</xmin>
+      <ymax>1470</ymax>
+      <ymin>538</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4681</xmax>
+      <xmin>4238</xmin>
+      <ymax>1988</ymax>
+      <ymin>1557</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2863</xmax>
+      <xmin>2425</xmin>
+      <ymax>1495</ymax>
+      <ymin>1045</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4256</xmax>
+      <xmin>3788</xmin>
+      <ymax>1538</ymax>
+      <ymin>1045</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2297</xmax>
+      <xmin>1975</xmin>
+      <ymax>2828</ymax>
+      <ymin>2406</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-165.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3078</height>
+    <width>5770</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

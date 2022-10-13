@@ -1,0 +1,98 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-116.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5905</width>
+		<height>3350</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3405</xmin>
+			<ymin>2610</ymin>
+			<xmax>3776</xmax>
+			<ymax>3022</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2894</xmin>
+			<ymin>316</ymin>
+			<xmax>3035</xmax>
+			<ymax>3051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Branch-like Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>794</xmin>
+			<ymin>1687</ymin>
+			<xmax>982</xmax>
+			<ymax>1845</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2435</xmin>
+			<ymin>292</ymin>
+			<xmax>2570</xmax>
+			<ymax>3045</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3823</xmin>
+			<ymin>304</ymin>
+			<xmax>3941</xmax>
+			<ymax>3087</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4758</xmin>
+			<ymin>334</ymin>
+			<xmax>4882</xmax>
+			<ymax>3075</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Rupture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1688</xmin>
+			<ymin>1422</ymin>
+			<xmax>1899</xmax>
+			<ymax>1663</ymax>
+		</bndbox>
+	</object>
+</annotation>

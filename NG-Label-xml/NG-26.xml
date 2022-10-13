@@ -1,0 +1,86 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-26.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5770</width>
+		<height>3078</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2884</xmin>
+			<ymin>1508</ymin>
+			<xmax>3326</xmax>
+			<ymax>1979</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3326</xmin>
+			<ymin>1524</ymin>
+			<xmax>3784</xmax>
+			<ymax>1970</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Micro-Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2868</xmin>
+			<ymin>2541</ymin>
+			<xmax>3293</xmax>
+			<ymax>2637</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Branch-like Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1972</xmin>
+			<ymin>2412</ymin>
+			<xmax>2159</xmax>
+			<ymax>2837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>1467</ymin>
+			<xmax>2829</xmax>
+			<ymax>1978</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Black Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3656</xmin>
+			<ymin>911</ymin>
+			<xmax>3767</xmax>
+			<ymax>1067</ymax>
+		</bndbox>
+	</object>
+</annotation>

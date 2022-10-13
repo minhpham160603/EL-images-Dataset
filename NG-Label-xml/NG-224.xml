@@ -1,0 +1,98 @@
+<annotation>
+  <filename>NG-224.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>3332</xmax>
+      <xmin>2874</xmin>
+      <ymax>1081</ymax>
+      <ymin>596</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3805</xmax>
+      <xmin>3344</xmin>
+      <ymax>623</ymax>
+      <ymin>162</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4248</xmax>
+      <xmin>3786</xmin>
+      <ymax>1085</ymax>
+      <ymin>627</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4263</xmax>
+      <xmin>3801</xmin>
+      <ymax>631</ymax>
+      <ymin>173</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3282</xmax>
+      <xmin>2848</xmin>
+      <ymax>2854</ymax>
+      <ymin>2408</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3732</xmax>
+      <xmin>3282</xmin>
+      <ymax>2869</ymax>
+      <ymin>2431</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2178</xmax>
+      <xmin>1978</xmin>
+      <ymax>2835</ymax>
+      <ymin>2385</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-224.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3078</height>
+    <width>5770</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

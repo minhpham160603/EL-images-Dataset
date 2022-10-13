@@ -1,0 +1,74 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-195.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-195.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5755</width>
+		<height>3177</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3938</xmin>
+			<ymin>2471</ymin>
+			<xmax>4210</xmax>
+			<ymax>2860</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4433</xmin>
+			<ymin>2510</ymin>
+			<xmax>4688</xmax>
+			<ymax>2916</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2260</xmin>
+			<ymin>2427</ymin>
+			<xmax>2860</xmax>
+			<ymax>2771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4566</xmin>
+			<ymin>2154</ymin>
+			<xmax>4672</xmax>
+			<ymax>2360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3788</xmin>
+			<ymin>1121</ymin>
+			<xmax>5072</xmax>
+			<ymax>1616</ymax>
+		</bndbox>
+	</object>
+</annotation>

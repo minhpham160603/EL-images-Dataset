@@ -1,0 +1,62 @@
+<annotation>
+  <filename>NG-39.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2553</xmax>
+      <xmin>2292</xmin>
+      <ymax>1512</ymax>
+      <ymin>1256</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1724</xmax>
+      <xmin>1631</xmin>
+      <ymax>1400</ymax>
+      <ymin>1278</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4909</xmax>
+      <xmin>4426</xmin>
+      <ymax>1704</ymax>
+      <ymin>1256</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4400</xmax>
+      <xmin>3900</xmin>
+      <ymax>2612</ymax>
+      <ymin>2147</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-39.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3213</height>
+    <width>5914</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

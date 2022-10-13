@@ -1,0 +1,86 @@
+<annotation>
+  <filename>NG-110.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>5479</xmax>
+      <xmin>5166</xmin>
+      <ymax>1421</ymax>
+      <ymin>1184</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2221</xmax>
+      <xmin>2024</xmin>
+      <ymax>1526</ymax>
+      <ymin>1416</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1455</xmax>
+      <xmin>1029</xmin>
+      <ymax>2858</ymax>
+      <ymin>2434</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4123</xmax>
+      <xmin>3697</xmin>
+      <ymax>2434</ymax>
+      <ymin>2010</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5050</xmax>
+      <xmin>4624</xmin>
+      <ymax>2442</ymax>
+      <ymin>2018</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5503</xmax>
+      <xmin>5077</xmin>
+      <ymax>2880</ymax>
+      <ymin>2456</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-110.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3120</height>
+    <width>5561</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

@@ -1,0 +1,74 @@
+<annotation>
+  <filename>NG-86.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>4734</xmax>
+      <xmin>4282</xmin>
+      <ymax>1594</ymax>
+      <ymin>1394</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>950</xmax>
+      <xmin>846</xmin>
+      <ymax>578</ymax>
+      <ymin>418</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>514</xmax>
+      <xmin>442</xmin>
+      <ymax>422</ymax>
+      <ymin>258</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4542</xmax>
+      <xmin>4462</xmin>
+      <ymax>1902</ymax>
+      <ymin>1726</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4550</xmax>
+      <xmin>4422</xmin>
+      <ymax>2790</ymax>
+      <ymin>2630</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-86.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3020</height>
+    <width>4820</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

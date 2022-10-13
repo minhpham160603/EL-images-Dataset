@@ -1,0 +1,98 @@
+<annotation>
+  <filename>NG-169.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>784</xmax>
+      <xmin>594</xmin>
+      <ymax>1420</ymax>
+      <ymin>1265</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1778</xmax>
+      <xmin>1581</xmin>
+      <ymax>2762</ymax>
+      <ymin>2304</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2597</xmax>
+      <xmin>2552</xmin>
+      <ymax>975</ymax>
+      <ymin>949</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3981</xmax>
+      <xmin>3917</xmin>
+      <ymax>1004</ymax>
+      <ymin>965</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2171</xmax>
+      <xmin>2126</xmin>
+      <ymax>981</ymax>
+      <ymin>942</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1271</xmax>
+      <xmin>1223</xmin>
+      <ymax>965</ymax>
+      <ymin>926</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3394</xmax>
+      <xmin>3320</xmin>
+      <ymax>2768</ymax>
+      <ymin>2642</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-169.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2931</height>
+    <width>4772</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

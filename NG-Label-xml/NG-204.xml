@@ -1,0 +1,122 @@
+<annotation>
+  <filename>NG-204.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>621</xmax>
+      <xmin>195</xmin>
+      <ymax>2789</ymax>
+      <ymin>1454</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1952</xmax>
+      <xmin>629</xmin>
+      <ymax>2400</ymax>
+      <ymin>1916</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1041</xmax>
+      <xmin>621</xmin>
+      <ymax>2820</ymax>
+      <ymin>2373</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4195</xmax>
+      <xmin>1971</xmin>
+      <ymax>2423</ymax>
+      <ymin>1954</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5548</xmax>
+      <xmin>4218</xmin>
+      <ymax>2462</ymax>
+      <ymin>2000</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2387</xmax>
+      <xmin>1979</xmin>
+      <ymax>2843</ymax>
+      <ymin>1493</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3337</xmax>
+      <xmin>2898</xmin>
+      <ymax>577</ymax>
+      <ymin>135</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4868</xmax>
+      <xmin>4768</xmin>
+      <ymax>685</ymax>
+      <ymin>635</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5014</xmax>
+      <xmin>4902</xmin>
+      <ymax>1116</ymax>
+      <ymin>1027</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-204.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3078</height>
+    <width>5770</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

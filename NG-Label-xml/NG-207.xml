@@ -1,0 +1,38 @@
+<annotation>
+  <filename>NG-207.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>5022</xmax>
+      <xmin>4921</xmin>
+      <ymax>878</ymax>
+      <ymin>767</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Breakage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2647</xmax>
+      <xmin>2544</xmin>
+      <ymax>2903</ymax>
+      <ymin>2772</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-207.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

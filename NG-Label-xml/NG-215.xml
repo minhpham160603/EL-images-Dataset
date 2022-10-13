@@ -1,0 +1,50 @@
+<annotation>
+  <filename>NG-215.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>3265</xmax>
+      <xmin>2827</xmin>
+      <ymax>2472</ymax>
+      <ymin>2003</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5589</xmax>
+      <xmin>5158</xmin>
+      <ymax>696</ymax>
+      <ymin>246</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cross Line</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>600</xmax>
+      <xmin>165</xmin>
+      <ymax>1057</ymax>
+      <ymin>576</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-215.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

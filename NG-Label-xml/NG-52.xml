@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-52.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-52.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5770</width>
+		<height>3078</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4223</xmin>
+			<ymin>1539</ymin>
+			<xmax>4679</xmax>
+			<ymax>1994</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>989</ymin>
+			<xmax>640</xmax>
+			<ymax>1433</ymax>
+		</bndbox>
+	</object>
+</annotation>

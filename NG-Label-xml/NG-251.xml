@@ -1,0 +1,26 @@
+<annotation>
+  <filename>NG-251.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>985</xmax>
+      <xmin>885</xmin>
+      <ymax>1683</ymax>
+      <ymin>1538</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Breakage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-251.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

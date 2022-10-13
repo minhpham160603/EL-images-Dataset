@@ -1,0 +1,26 @@
+<annotation>
+  <filename>NG-171.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2301</xmax>
+      <xmin>2199</xmin>
+      <ymax>1700</ymax>
+      <ymin>1569</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-171.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

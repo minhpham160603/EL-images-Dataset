@@ -1,0 +1,26 @@
+<annotation>
+  <filename>NG-40.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>3533</xmax>
+      <xmin>3493</xmin>
+      <ymax>1199</ymax>
+      <ymin>1128</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-40.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2874</height>
+    <width>5603</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

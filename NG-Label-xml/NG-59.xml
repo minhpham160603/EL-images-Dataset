@@ -1,0 +1,74 @@
+<annotation>
+  <filename>NG-59.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>856</xmax>
+      <xmin>621</xmin>
+      <ymax>514</ymax>
+      <ymin>251</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2608</xmax>
+      <xmin>2551</xmin>
+      <ymax>1257</ymax>
+      <ymin>1208</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1787</xmax>
+      <xmin>1730</xmin>
+      <ymax>718</ymax>
+      <ymin>669</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1808</xmax>
+      <xmin>1705</xmin>
+      <ymax>624</ymax>
+      <ymin>568</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2051</xmax>
+      <xmin>1908</xmin>
+      <ymax>2743</ymax>
+      <ymin>2443</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-59.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

@@ -1,0 +1,122 @@
+<annotation>
+  <filename>NG-197.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2391</xmax>
+      <xmin>610</xmin>
+      <ymax>2398</ymax>
+      <ymin>1937</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2384</xmax>
+      <xmin>1065</xmin>
+      <ymax>2827</ymax>
+      <ymin>2391</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4674</xmax>
+      <xmin>3765</xmin>
+      <ymax>1975</ymax>
+      <ymin>1062</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4194</xmax>
+      <xmin>2387</xmin>
+      <ymax>2840</ymax>
+      <ymin>2411</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3313</xmax>
+      <xmin>162</xmin>
+      <ymax>1491</ymax>
+      <ymin>1024</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4245</xmax>
+      <xmin>1510</xmin>
+      <ymax>1027</ymax>
+      <ymin>124</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4691</xmax>
+      <xmin>4262</xmin>
+      <ymax>578</ymax>
+      <ymin>143</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1058</xmax>
+      <xmin>184</xmin>
+      <ymax>1911</ymax>
+      <ymin>1491</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>597</xmax>
+      <xmin>162</xmin>
+      <ymax>2798</ymax>
+      <ymin>2385</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-197.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2971</height>
+    <width>4802</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

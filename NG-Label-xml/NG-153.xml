@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-153.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5591</width>
+		<height>3320</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4995</xmin>
+			<ymin>543</ymin>
+			<xmax>5473</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5001</xmin>
+			<ymin>1460</ymin>
+			<xmax>5451</xmax>
+			<ymax>1632</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Rupture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2278</xmin>
+			<ymin>2549</ymin>
+			<xmax>2756</xmax>
+			<ymax>2860</ymax>
+		</bndbox>
+	</object>
+</annotation>

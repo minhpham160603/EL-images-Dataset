@@ -1,0 +1,86 @@
+<annotation>
+  <filename>NG-50.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2434</xmax>
+      <xmin>2166</xmin>
+      <ymax>2439</ymax>
+      <ymin>2095</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1490</xmax>
+      <xmin>1418</xmin>
+      <ymax>2939</ymax>
+      <ymin>2867</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>658</xmax>
+      <xmin>294</xmin>
+      <ymax>2059</ymax>
+      <ymin>1795</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3698</xmax>
+      <xmin>3631</xmin>
+      <ymax>910</ymax>
+      <ymin>830</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2222</xmax>
+      <xmin>2070</xmin>
+      <ymax>2868</ymax>
+      <ymin>2556</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4222</xmax>
+      <xmin>4196</xmin>
+      <ymax>548</ymax>
+      <ymin>461</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-50.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3350</height>
+    <width>5905</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

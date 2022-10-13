@@ -1,0 +1,98 @@
+<annotation>
+  <filename>NG-147.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>1417</xmax>
+      <xmin>879</xmin>
+      <ymax>992</ymax>
+      <ymin>826</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4090</xmax>
+      <xmin>3637</xmin>
+      <ymax>1046</ymax>
+      <ymin>869</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4548</xmax>
+      <xmin>4110</xmin>
+      <ymax>1022</ymax>
+      <ymin>922</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3175</xmax>
+      <xmin>2637</xmin>
+      <ymax>1830</ymax>
+      <ymin>1684</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1813</xmax>
+      <xmin>1344</xmin>
+      <ymax>1846</ymax>
+      <ymin>1649</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3171</xmax>
+      <xmin>2683</xmin>
+      <ymax>2788</ymax>
+      <ymin>2634</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1213</xmax>
+      <xmin>1094</xmin>
+      <ymax>1511</ymax>
+      <ymin>1388</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-147.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

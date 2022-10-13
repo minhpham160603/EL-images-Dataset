@@ -1,0 +1,38 @@
+<annotation>
+  <filename>NG-245.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2029</xmax>
+      <xmin>1452</xmin>
+      <ymax>857</ymax>
+      <ymin>584</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1110</xmax>
+      <xmin>910</xmin>
+      <ymax>2903</ymax>
+      <ymin>2534</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-245.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

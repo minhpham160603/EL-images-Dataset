@@ -1,0 +1,134 @@
+<annotation>
+  <filename>NG-60.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2429</xmax>
+      <xmin>2333</xmin>
+      <ymax>2191</ymax>
+      <ymin>2072</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2340</xmax>
+      <xmin>2267</xmin>
+      <ymax>1861</ymax>
+      <ymin>1711</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1629</xmax>
+      <xmin>1556</xmin>
+      <ymax>1622</ymax>
+      <ymin>1522</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4021</xmax>
+      <xmin>3944</xmin>
+      <ymax>1684</ymax>
+      <ymin>1584</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4110</xmax>
+      <xmin>3925</xmin>
+      <ymax>984</ymax>
+      <ymin>768</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2102</xmax>
+      <xmin>1890</xmin>
+      <ymax>2822</ymax>
+      <ymin>2430</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2666</xmax>
+      <xmin>2592</xmin>
+      <ymax>2096</ymax>
+      <ymin>2010</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2492</xmax>
+      <xmin>2431</xmin>
+      <ymax>1992</ymax>
+      <ymin>1927</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4825</xmax>
+      <xmin>4750</xmin>
+      <ymax>2149</ymax>
+      <ymin>2070</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3925</xmax>
+      <xmin>3871</xmin>
+      <ymax>2098</ymax>
+      <ymin>2056</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-60.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3177</height>
+    <width>5755</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

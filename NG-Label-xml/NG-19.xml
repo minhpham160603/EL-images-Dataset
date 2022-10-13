@@ -1,0 +1,62 @@
+<annotation>
+  <filename>NG-19.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>4065</xmax>
+      <xmin>3776</xmin>
+      <ymax>1975</ymax>
+      <ymin>1886</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3780</xmax>
+      <xmin>3672</xmin>
+      <ymax>2290</ymax>
+      <ymin>2098</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4149</xmax>
+      <xmin>4084</xmin>
+      <ymax>2275</ymax>
+      <ymin>2060</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1755</xmax>
+      <xmin>1482</xmin>
+      <ymax>131</ymax>
+      <ymin>101</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-19.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2874</height>
+    <width>5603</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

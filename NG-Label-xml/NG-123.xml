@@ -1,0 +1,146 @@
+<annotation>
+  <filename>NG-123.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>1108</xmax>
+      <xmin>1016</xmin>
+      <ymax>478</ymax>
+      <ymin>376</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1125</xmax>
+      <xmin>1002</xmin>
+      <ymax>791</ymax>
+      <ymin>645</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1491</xmax>
+      <xmin>1386</xmin>
+      <ymax>715</ymax>
+      <ymin>617</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>578</xmax>
+      <xmin>496</xmin>
+      <ymax>317</ymax>
+      <ymin>228</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1302</xmax>
+      <xmin>1263</xmin>
+      <ymax>259</ymax>
+      <ymin>218</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>446</xmax>
+      <xmin>372</xmin>
+      <ymax>214</ymax>
+      <ymin>153</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1366</xmax>
+      <xmin>1330</xmin>
+      <ymax>872</ymax>
+      <ymin>835</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1737</xmax>
+      <xmin>1696</xmin>
+      <ymax>869</ymax>
+      <ymin>828</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1564</xmax>
+      <xmin>1493</xmin>
+      <ymax>793</ymax>
+      <ymin>719</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1824</xmax>
+      <xmin>1773</xmin>
+      <ymax>639</ymax>
+      <ymin>571</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1763</xmax>
+      <xmin>1695</xmin>
+      <ymax>568</ymax>
+      <ymin>496</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-123.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>987</height>
+    <width>1861</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

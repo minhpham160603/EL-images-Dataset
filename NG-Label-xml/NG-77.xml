@@ -1,0 +1,38 @@
+<annotation>
+  <filename>NG-77.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>4216</xmax>
+      <xmin>4023</xmin>
+      <ymax>1176</ymax>
+      <ymin>1110</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5725</xmax>
+      <xmin>5550</xmin>
+      <ymax>1535</ymax>
+      <ymin>1422</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-77.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3724</height>
+    <width>5805</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

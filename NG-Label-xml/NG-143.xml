@@ -1,0 +1,50 @@
+<annotation>
+  <filename>NG-143.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2278</xmax>
+      <xmin>2073</xmin>
+      <ymax>2961</ymax>
+      <ymin>2593</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2876</xmax>
+      <xmin>2808</xmin>
+      <ymax>956</ymax>
+      <ymin>872</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>841</xmax>
+      <xmin>623</xmin>
+      <ymax>3017</ymax>
+      <ymin>2787</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-143.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3350</height>
+    <width>5905</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

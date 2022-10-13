@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-128.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5958</width>
+		<height>3168</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Snowflake Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>407</ymin>
+			<xmax>496</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Branch-like Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5631</xmin>
+			<ymin>2025</ymin>
+			<xmax>5772</xmax>
+			<ymax>2872</ymax>
+		</bndbox>
+	</object>
+</annotation>

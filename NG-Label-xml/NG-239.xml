@@ -1,0 +1,134 @@
+<annotation>
+  <filename>NG-239.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>752</xmax>
+      <xmin>652</xmin>
+      <ymax>240</ymax>
+      <ymin>111</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3014</xmax>
+      <xmin>2929</xmin>
+      <ymax>159</ymax>
+      <ymin>97</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5129</xmax>
+      <xmin>5019</xmin>
+      <ymax>530</ymax>
+      <ymin>306</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>867</xmax>
+      <xmin>543</xmin>
+      <ymax>2473</ymax>
+      <ymin>2306</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1324</xmax>
+      <xmin>995</xmin>
+      <ymax>2478</ymax>
+      <ymin>2335</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1748</xmax>
+      <xmin>1414</xmin>
+      <ymax>2492</ymax>
+      <ymin>2359</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1948</xmax>
+      <xmin>1862</xmin>
+      <ymax>2483</ymax>
+      <ymin>2349</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5091</xmax>
+      <xmin>4991</xmin>
+      <ymax>2502</ymax>
+      <ymin>2345</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1905</xmax>
+      <xmin>1810</xmin>
+      <ymax>197</ymax>
+      <ymin>111</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5005</xmax>
+      <xmin>4595</xmin>
+      <ymax>592</ymax>
+      <ymin>449</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-239.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3014</height>
+    <width>5639</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

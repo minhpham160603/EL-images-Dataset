@@ -1,0 +1,62 @@
+<annotation>
+  <filename>NG-119.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2873</xmax>
+      <xmin>1973</xmin>
+      <ymax>1950</ymax>
+      <ymin>1508</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4254</xmax>
+      <xmin>2004</xmin>
+      <ymax>1058</ymax>
+      <ymin>589</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5600</xmax>
+      <xmin>5139</xmin>
+      <ymax>2008</ymax>
+      <ymin>1566</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>647</xmax>
+      <xmin>204</xmin>
+      <ymax>547</ymax>
+      <ymin>116</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-119.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3078</height>
+    <width>5770</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

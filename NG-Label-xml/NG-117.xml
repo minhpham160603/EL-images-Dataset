@@ -1,0 +1,38 @@
+<annotation>
+  <filename>NG-117.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>5104</xmax>
+      <xmin>5021</xmin>
+      <ymax>390</ymax>
+      <ymin>294</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3778</xmax>
+      <xmin>3687</xmin>
+      <ymax>2672</ymax>
+      <ymin>2603</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-117.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3350</height>
+    <width>5905</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

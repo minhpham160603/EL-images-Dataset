@@ -1,0 +1,26 @@
+<annotation>
+  <filename>NG-189.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>446</xmax>
+      <xmin>355</xmin>
+      <ymax>2221</ymax>
+      <ymin>2127</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-189.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2874</height>
+    <width>5603</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

@@ -1,0 +1,86 @@
+<annotation>
+  <filename>NG-79.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2978</xmax>
+      <xmin>2654</xmin>
+      <ymax>1885</ymax>
+      <ymin>1585</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2974</xmax>
+      <xmin>2626</xmin>
+      <ymax>2161</ymax>
+      <ymin>2052</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3016</xmax>
+      <xmin>2521</xmin>
+      <ymax>2481</ymax>
+      <ymin>2338</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3435</xmax>
+      <xmin>3354</xmin>
+      <ymax>2185</ymax>
+      <ymin>2076</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4383</xmax>
+      <xmin>4288</xmin>
+      <ymax>2852</ymax>
+      <ymin>2538</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5307</xmax>
+      <xmin>5188</xmin>
+      <ymax>2857</ymax>
+      <ymin>2523</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-79.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3724</height>
+    <width>5805</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

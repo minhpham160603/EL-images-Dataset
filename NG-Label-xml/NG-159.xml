@@ -1,0 +1,86 @@
+<annotation>
+  <filename>NG-159.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>1292</xmax>
+      <xmin>846</xmin>
+      <ymax>3031</ymax>
+      <ymin>2591</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>986</xmax>
+      <xmin>836</xmin>
+      <ymax>2011</ymax>
+      <ymin>1891</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1016</xmax>
+      <xmin>946</xmin>
+      <ymax>1316</ymax>
+      <ymin>1246</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3062</xmax>
+      <xmin>2632</xmin>
+      <ymax>2696</ymax>
+      <ymin>2601</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5367</xmax>
+      <xmin>5257</xmin>
+      <ymax>3041</ymax>
+      <ymin>2656</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3642</xmax>
+      <xmin>3472</xmin>
+      <ymax>1696</ymax>
+      <ymin>1321</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-159.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3213</height>
+    <width>5914</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

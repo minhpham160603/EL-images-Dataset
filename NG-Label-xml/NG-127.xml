@@ -1,0 +1,74 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-127.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5639</width>
+		<height>3014</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5072</xmin>
+			<ymin>68</ymin>
+			<xmax>5513</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Snowflake Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>1759</ymin>
+			<xmax>537</xmax>
+			<ymax>1817</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Snowflake Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>835</xmin>
+			<ymin>2189</ymin>
+			<xmax>885</xmax>
+			<ymax>2236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Black Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>2472</ymin>
+			<xmax>171</xmax>
+			<ymax>2703</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2797</xmin>
+			<ymin>1457</ymin>
+			<xmax>3214</xmax>
+			<ymax>1907</ymax>
+		</bndbox>
+	</object>
+</annotation>

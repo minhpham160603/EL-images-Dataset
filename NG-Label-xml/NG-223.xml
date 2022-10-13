@@ -1,0 +1,110 @@
+<annotation>
+  <filename>NG-223.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>5262</xmax>
+      <xmin>5198</xmin>
+      <ymax>3071</ymax>
+      <ymin>2655</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>750</xmax>
+      <xmin>662</xmin>
+      <ymax>695</ymax>
+      <ymin>251</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3478</xmax>
+      <xmin>3402</xmin>
+      <ymax>731</ymax>
+      <ymin>279</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5354</xmax>
+      <xmin>5250</xmin>
+      <ymax>1703</ymax>
+      <ymin>311</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Shaded Portion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5034</xmax>
+      <xmin>4918</xmin>
+      <ymax>2235</ymax>
+      <ymin>2171</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4426</xmax>
+      <xmin>4382</xmin>
+      <ymax>879</ymax>
+      <ymin>811</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3642</xmax>
+      <xmin>3582</xmin>
+      <ymax>1795</ymax>
+      <ymin>1719</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>5786</xmax>
+      <xmin>5490</xmin>
+      <ymax>655</ymax>
+      <ymin>303</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-223.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3350</height>
+    <width>5905</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

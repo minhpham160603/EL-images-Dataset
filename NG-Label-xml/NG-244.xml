@@ -1,0 +1,110 @@
+<annotation>
+  <filename>NG-244.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>730</xmax>
+      <xmin>310</xmin>
+      <ymax>2868</ymax>
+      <ymin>2441</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3434</xmax>
+      <xmin>1184</xmin>
+      <ymax>2895</ymax>
+      <ymin>1998</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2090</xmax>
+      <xmin>304</xmin>
+      <ymax>2008</ymax>
+      <ymin>1085</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4784</xmax>
+      <xmin>3447</xmin>
+      <ymax>2861</ymax>
+      <ymin>2478</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4784</xmax>
+      <xmin>3884</xmin>
+      <ymax>2468</ymax>
+      <ymin>2028</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4334</xmax>
+      <xmin>3894</xmin>
+      <ymax>1561</ymax>
+      <ymin>658</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3430</xmax>
+      <xmin>2980</xmin>
+      <ymax>611</ymax>
+      <ymin>211</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4757</xmax>
+      <xmin>3894</xmin>
+      <ymax>661</ymax>
+      <ymin>218</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-244.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2943</height>
+    <width>5001</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

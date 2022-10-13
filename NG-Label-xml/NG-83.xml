@@ -1,0 +1,26 @@
+<annotation>
+  <filename>NG-83.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>3689</xmax>
+      <xmin>3237</xmin>
+      <ymax>1443</ymax>
+      <ymin>991</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cold Soldering</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-83.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2874</height>
+    <width>5603</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

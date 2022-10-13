@@ -1,0 +1,62 @@
+<annotation>
+  <filename>NG-240.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>470</xmax>
+      <xmin>366</xmin>
+      <ymax>2514</ymax>
+      <ymin>2405</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>352</xmax>
+      <xmin>275</xmin>
+      <ymax>1300</ymax>
+      <ymin>1100</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4048</xmax>
+      <xmin>3898</xmin>
+      <ymax>746</ymax>
+      <ymin>623</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1870</xmax>
+      <xmin>1801</xmin>
+      <ymax>1598</ymax>
+      <ymin>1536</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-240.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3120</height>
+    <width>5561</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

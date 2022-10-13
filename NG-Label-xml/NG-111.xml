@@ -1,0 +1,98 @@
+<annotation>
+  <filename>NG-111.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>2432</xmax>
+      <xmin>1979</xmin>
+      <ymax>1048</ymax>
+      <ymin>581</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Dead Cell</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3794</xmax>
+      <xmin>2432</xmin>
+      <ymax>1053</ymax>
+      <ymin>624</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1975</xmax>
+      <xmin>1532</xmin>
+      <ymax>1043</ymax>
+      <ymin>586</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Dead Cell</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1065</xmax>
+      <xmin>203</xmin>
+      <ymax>558</ymax>
+      <ymin>134</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Different Brightness</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>4651</xmax>
+      <xmin>4575</xmin>
+      <ymax>2786</ymax>
+      <ymin>2667</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2132</xmax>
+      <xmin>2056</xmin>
+      <ymax>1919</ymax>
+      <ymin>1796</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1189</xmax>
+      <xmin>1084</xmin>
+      <ymax>2810</ymax>
+      <ymin>2686</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-111.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3078</height>
+    <width>5770</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

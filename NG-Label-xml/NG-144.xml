@@ -1,0 +1,110 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-144.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5603</width>
+		<height>2874</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Branch-like Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2041</xmin>
+			<ymin>1875</ymin>
+			<xmax>2161</xmax>
+			<ymax>1979</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Rupture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2429</xmin>
+			<ymin>815</ymin>
+			<xmax>2757</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Rupture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1462</xmin>
+			<ymin>676</ymin>
+			<xmax>2262</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Rupture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2923</xmin>
+			<ymin>531</ymin>
+			<xmax>3101</xmax>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gate Rupture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3284</xmin>
+			<ymin>81</ymin>
+			<xmax>3512</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Snowflake Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5062</xmin>
+			<ymin>1398</ymin>
+			<xmax>5484</xmax>
+			<ymax>1887</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Snowflake Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4129</xmin>
+			<ymin>2142</ymin>
+			<xmax>4568</xmax>
+			<ymax>2370</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Black Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>642</ymin>
+			<xmax>1040</xmax>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+</annotation>

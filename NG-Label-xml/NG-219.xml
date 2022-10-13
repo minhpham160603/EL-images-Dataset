@@ -1,0 +1,38 @@
+<annotation>
+  <filename>NG-219.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>641</xmax>
+      <xmin>492</xmin>
+      <ymax>377</ymax>
+      <ymin>232</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Micro-Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>835</xmax>
+      <xmin>668</xmin>
+      <ymax>1709</ymax>
+      <ymin>1527</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-219.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>2882</height>
+    <width>5703</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

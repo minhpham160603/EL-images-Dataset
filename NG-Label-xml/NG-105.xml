@@ -1,0 +1,134 @@
+<annotation>
+  <filename>NG-105.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>1179</xmax>
+      <xmin>1051</xmin>
+      <ymax>2007</ymax>
+      <ymin>1635</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>701</xmax>
+      <xmin>406</xmin>
+      <ymax>677</ymax>
+      <ymin>304</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1126</xmax>
+      <xmin>806</xmin>
+      <ymax>665</ymax>
+      <ymin>279</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1581</xmax>
+      <xmin>1287</xmin>
+      <ymax>632</ymax>
+      <ymin>296</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2084</xmax>
+      <xmin>1720</xmin>
+      <ymax>2918</ymax>
+      <ymin>2538</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2512</xmax>
+      <xmin>2154</xmin>
+      <ymax>2904</ymax>
+      <ymin>2543</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3881</xmax>
+      <xmin>3531</xmin>
+      <ymax>1546</ymax>
+      <ymin>1171</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2959</xmax>
+      <xmin>2731</xmin>
+      <ymax>1563</ymax>
+      <ymin>1188</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>3373</xmax>
+      <xmin>3192</xmin>
+      <ymax>2893</ymax>
+      <ymin>2579</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>1167</xmax>
+      <xmin>795</xmin>
+      <ymax>1563</ymax>
+      <ymin>1196</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Gate Rupture</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-105.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3724</height>
+    <width>5805</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

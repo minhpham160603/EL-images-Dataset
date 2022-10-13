@@ -1,0 +1,146 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-21.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5734</width>
+		<height>3040</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Black Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>91</ymin>
+			<xmax>576</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Black Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2028</xmin>
+			<ymin>2396</ymin>
+			<xmax>2152</xmax>
+			<ymax>2462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Black Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3261</xmin>
+			<ymin>148</ymin>
+			<xmax>3538</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>558</ymin>
+			<xmax>585</xmax>
+			<ymax>1010</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Branch-like Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1052</xmin>
+			<ymin>815</ymin>
+			<xmax>1476</xmax>
+			<ymax>996</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Snowflake Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1718</xmin>
+			<ymin>1943</ymin>
+			<xmax>1938</xmax>
+			<ymax>2029</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Black Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4299</xmin>
+			<ymin>596</ymin>
+			<xmax>4504</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3761</xmin>
+			<ymin>2414</ymin>
+			<xmax>4127</xmax>
+			<ymax>2870</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4205</xmin>
+			<ymin>1992</ymin>
+			<xmax>4599</xmax>
+			<ymax>2442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cold Soldering</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4294</xmin>
+			<ymin>1470</ymin>
+			<xmax>4511</xmax>
+			<ymax>1598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shaded Portion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>2392</ymin>
+			<xmax>933</xmax>
+			<ymax>2825</ymax>
+		</bndbox>
+	</object>
+</annotation>

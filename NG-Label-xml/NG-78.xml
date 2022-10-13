@@ -1,0 +1,86 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>NG-78.jpg</filename>
+	<path>/Users/minhpham1606/Downloads/EL-Project/Dataset/NG-78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5561</width>
+		<height>3120</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4622</xmin>
+			<ymin>1538</ymin>
+			<xmax>5066</xmax>
+			<ymax>1990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cross Line</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1243</xmin>
+			<ymin>2432</ymin>
+			<xmax>1442</xmax>
+			<ymax>2618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4186</xmin>
+			<ymin>1538</ymin>
+			<xmax>4641</xmax>
+			<ymax>2010</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2341</xmin>
+			<ymin>2432</ymin>
+			<xmax>3236</xmax>
+			<ymax>2876</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3719</xmin>
+			<ymin>2454</ymin>
+			<xmax>4113</xmax>
+			<ymax>2888</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Different Brightness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1469</xmin>
+			<ymin>1532</ymin>
+			<xmax>1891</xmax>
+			<ymax>1965</ymax>
+		</bndbox>
+	</object>
+</annotation>

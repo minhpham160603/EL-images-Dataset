@@ -1,0 +1,62 @@
+<annotation>
+  <filename>NG-184.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>5465</xmax>
+      <xmin>5195</xmin>
+      <ymax>2889</ymax>
+      <ymin>2567</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Black Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2855</xmax>
+      <xmin>2803</xmin>
+      <ymax>283</ymax>
+      <ymin>229</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>309</xmax>
+      <xmin>238</xmin>
+      <ymax>1100</ymax>
+      <ymin>1016</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Snowflake Spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>2141</xmax>
+      <xmin>1990</xmin>
+      <ymax>2710</ymax>
+      <ymin>2405</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Branch-like Crack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-184.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3040</height>
+    <width>5734</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <filename>NG-173.jpg</filename>
+  <folder>Documents</folder>
+  <object>
+    <bndbox>
+      <xmax>4484</xmax>
+      <xmin>4431</xmin>
+      <ymax>1580</ymax>
+      <ymin>1521</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>Cross Line</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>./../assets/NG/NG-173.jpg</path>
+  <segmented>0</segmented>
+  <size>
+    <depth>3</depth>
+    <height>3350</height>
+    <width>5905</width>
+  </size>
+  <source>
+    <database>Unknown</database>
+  </source>
+</annotation>

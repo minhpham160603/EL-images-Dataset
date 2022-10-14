@@ -1,2 +1,2 @@
 # EL images Dataset
- Public dataset of EL images
+ Public dataset of electroluminescence images of solar panel for defects detection.
